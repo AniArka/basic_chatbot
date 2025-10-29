@@ -5,7 +5,7 @@ It supports **persistent memory**, meaning your entire conversation history is s
 
 ---
 
-## 🚀 Features
+## Features
 
 - 💬 Conversational AI powered by **Llama 3.1**
 - 🧠 **Persistent chat memory** stored in `chat_history.json`
@@ -14,7 +14,7 @@ It supports **persistent memory**, meaning your entire conversation history is s
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone this repository
 ```bash
